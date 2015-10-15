@@ -1,0 +1,179 @@
+*{
+	text-align: center;
+	font-size: 12px
+}
+/* Menu*/
+li{
+	display: inline;
+	list-style: none;
+	padding-right: 30px;
+	padding-left: 30px;
+	color:gray;
+	border-right: solid 1px gray;
+	font-size:14px 
+}
+.noborde{
+	border-right: none
+}
+ul{
+	text-align: right;
+	margin-top: 70px
+}
+a{
+	text-decoration: none
+}
+/* Logo*/
+img{
+	width:100%;
+}
+
+header img{
+	margin-top: 40px;
+	width: 70%
+}
+/* Fondo1*/
+.fondo1{
+	background-image:url("../img/semilla.jpg ");
+	background-size: 100%;
+	height: 300px
+}
+
+.gris1{
+	background-color:#E6E6E6;
+	text-align: center;
+	color:gray;
+	height: 150px;
+	font-size: 12px;
+	padding: 55px;
+}
+
+
+
+.imgchicas{
+	width: 30%
+}
+h3{
+	color:black;
+	font-size: 20px;
+	margin-top: 10px
+}
+.mar{
+	margin-top: 60px
+}
+
+.cero{
+	padding: 0px;
+	text-align: center
+}
+
+.fondo2{
+	background-image: url("../img/fondo.jpg");
+	background-size: 100%;
+	height: 313px;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.chiquitita{
+	width: 20%;
+	margin-bottom: 30px
+}
+.pad2{
+	padding: 60px;
+}
+.subti{
+	color: black;
+	font-size:30px;
+	padding: 20px
+}
+
+.subti2{
+	font-size:15px;
+	padding: 24%;
+	padding-top: 0;
+	padding-bottom: 10px
+	
+}
+
+p+p{
+	margin-left: 20px;
+	margin-right: 20px
+}
+
+h3.mar{
+	margin-bottom: 30px
+}
+
+.just{
+	text-align: justify;
+}
+
+.fotoperfil{
+	border-radius: 50%;
+	width:45%;
+}
+
+img.fotoperfil+p{
+	margin-top: 30px
+}
+.pad3{
+	padding: 3%
+}
+.redes{
+	width: 7%;
+	margin: .7%;
+	margin-top: 20px
+}
+.textura{
+	background-image: url("../img/fondo2.jpg");
+	background-size: 100%;
+	background-position: center;
+	background-size: cover;
+	position: relative
+}
+
+.galery{
+	width:80%;
+}
+ .pd-3{
+ 	padding: 3%
+ }
+ .text3{
+ 	font-size: 10px
+ }
+.mar40{
+	margin-right: 30px;
+	margin-left: 30px
+}
+.slider{
+	width: 2%;
+	left:20%;
+	top:50%;
+	position:absolute;
+}
+.slider2{
+	width: 2%;
+	right:21%;
+	top:50%;
+	position:absolute;
+}
+.lineablanca{
+	border:1px white solid;
+	width:100%;
+	height:200px;
+}
+.griss{
+	background-color: gray;
+}
+.blancos{
+	font-size: 15px;
+	text-align: left;
+	margin:30px
+}
+
+p.blancos+img{
+	width:20%;
+	margin-top: 60px;
+	margin-left: 130px
+}
